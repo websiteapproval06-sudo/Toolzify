@@ -1,0 +1,6 @@
+{
+  "name": "Toolzify",
+  "description": "Your Everyday Tools, One Beautiful App — Privacy-first offline utility suite for calculators, productivity, text tools, everyday utilities, and optional Islamic tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
